@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "folder-name": "cat",
+            "key-word": "猫",
+            "end-page": 20
+        }
+    ],
+    "config": {
+        "thread": "true"
+    }
+}
