@@ -59,7 +59,7 @@ config.task=list(set(config.task.split(',')))
 
 ######## debug ################ debug ################ debug ################ debug ################ debug ################ debug ########
 
-chrome = webdriver.Chrome(config.chrome_driver_path)
+chrome = webdriver.Chrome()
 try:
     tasks = config.task
     data = {}

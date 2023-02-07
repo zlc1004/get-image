@@ -3,7 +3,7 @@ import time
 import config
 import json,v4_download_engine
 
-chrome=webdriver.Chrome(config.chrome_driver_path)
+chrome=webdriver.Chrome()
 tasks=config.task.split(',')
 data={}
 for task in tasks:

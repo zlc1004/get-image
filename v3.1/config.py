@@ -11,6 +11,6 @@ next_page_xpath=r"//*[@id=\"section-filter-listing-results-66dc75a4-522d-42ab-aa
 run_js_when_next_page=0
 what_js=""
 thread=0
-chrome_driver_path=r"./chromedriver"
+#chrome_driver_path=r"./chromedriver"
 save_path=r"./image"
 task="Html"
